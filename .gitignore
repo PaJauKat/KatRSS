@@ -1,0 +1,24 @@
+# Dependencias
+node_modules/
+.pnp
+.pnp.js
+
+# Variables de entorno (¡Súper importante!)
+.env
+.env.local
+src/lib/db/meta
+src/lib/db/**.sql
+
+# Compilación
+dist/
+build/
+*.tsbuildinfo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
