@@ -1,4 +1,4 @@
-# 🚀 RSS Aggregator CLI
+# 🚀 Gator
 
 Herramienta de línea de comandos para gestionar y consumir feeds RSS, construida con TypeScript y Drizzle ORM.
 
