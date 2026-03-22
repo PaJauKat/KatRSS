@@ -1,6 +1,6 @@
 # 🚀 Gator
 
-Herramienta de línea de comandos para gestionar y consumir feeds RSS, construida con TypeScript y Drizzle ORM.
+Herramienta de línea de comandos gator para gestionar y consumir feeds RSS, construida con TypeScript y Drizzle ORM.
 
 ## 📋 Comandos Disponibles
 
